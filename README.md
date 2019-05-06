@@ -1,7 +1,7 @@
 # diamond-kata
-Given a letter, print a diamond starting with ‘A’ with the supplied letter at the widest point.
+Given a letter, print a diamond starting with 'A' with the supplied letter at the widest point.
 
-For example: print-diamond ‘C’ prints
+For example: diamond.print('C') prints
 ```
   A
  B B
